@@ -1,4 +1,5 @@
 // loll
+// this is just for testing purpose
 package client;
 
 import java.rmi.RemoteException;
